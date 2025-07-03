@@ -39,13 +39,22 @@ Wanna give it a shot? I promise you'll have a unique experience in the Top Talen
 
 Academic Interests
 ======
-Since high school, I have developed a deep interest in computers, especially in the field of computer vision. Additionally, I am also fascinated by large language models, robotics, and other related domains.
+Since high school, I have developed a deep interest in computers, especially in the field of computer vision. Additionally, I am also fascinated by large language models, and other related domains.
 
 CV
 -----
-1.Image stitching: helps you synthesize a large image.    
-1.Image registration: the "connect-the-dots" of images.    
+1.Image stitching: It helps you synthesize a large image.    
+
+1.Image registration: The "connect-the-dots" of images.    
+
+LLM
+-----
+1.LLM-powered Enhanced Retrieval: It allows AI to understand your questions like a human, and then helps you find the information you want more accurately.
 
 Interests
 ======
+*Life*: traveling, eating, sleeping hhh.
+*Sports*: I AM A SUPER BADMINTON FAN! Currently, Currently, my self-assessed badminton skill level is between Men's Singles 3.5 and 4.0. Hit me up when you want to play badminton!
+*Entertainments*: Video games(Delta Force, GTA, etc), painting, photographing.
+
 
