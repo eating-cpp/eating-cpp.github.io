@@ -43,13 +43,13 @@ Since high school, I have developed a deep interest in computers, especially in 
 
 CV
 -----
-1.Image stitching: It helps you synthesize a large image.    
+*Image stitching*: It helps you synthesize a large image.    
 
-1.Image registration: The "connect-the-dots" of images.    
+*Image registration*: The "connect-the-dots" of images.    
 
 LLM
 -----
-1.LLM-powered Enhanced Retrieval: It allows AI to understand your questions like a human, and then helps you find the information you want more accurately.
+*LLM-powered Enhanced Retrieval*: It allows AI to understand your questions like a human, and then helps you find the information you want more accurately.
 
 Interests
 ======
