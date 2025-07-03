@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My name is Li Yujie, a junior undergraduate student majoring in the Top-Notch Talent Class of Computer Science and Technology at the School of Computer Science and Technology, Xidian University. Want to learn more about my discipline or the Top-Notch Talent Base? Click here! My research interests include, but are not limited to, computer vision, robotics, and large language models. I often post personal updates to record my recent research or study progress. Welcome to communicate with me!
+
+You can find my CV here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:liyujie2305@outlook.com) / [Github]((https://github.com/eating-cpp)).
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
