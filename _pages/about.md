@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Li Yujie, a junior undergraduate student majoring in the Top-Notch Talent Class of Computer Science and Technology at the School of Computer Science and Technology, Xidian University. Want to learn more about my discipline or the Top-Notch Talent Base? Click here! My research interests include, but are not limited to, computer vision, robotics, and large language models. I often post personal updates to record my recent research or study progress. Welcome to communicate with me!
 
-You can find my CV here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).   
+You can find my CV here:[XX's Curriculum Vitae](../assets/西安电子科技大学-李钰杰-简历.pdf).   
 
 
 [Email1: liyujie2305@outlook.com](mailto:liyujie2305@outlook.com)   
