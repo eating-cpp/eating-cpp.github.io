@@ -11,7 +11,12 @@ My name is Li Yujie, a junior undergraduate student majoring in the Top-Notch Ta
 
 You can find my CV here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:liyujie2305@outlook.com) / [Github]((https://github.com/eating-cpp)).
+[Email1: liyujie2305@outlook.com](mailto:liyujie2305@outlook.com)
+[Emain2: 22009200957@stu.xd.edu.cn](22009200957@stu.xd.edu.cn)
+[Github: eating-cpp]((https://github.com/eating-cpp)).
+[WeChat: Terminatdli2305].
+[QQ: 3347430292].
+[Phone number: 17719508298].
 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
