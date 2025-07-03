@@ -52,7 +52,7 @@ LLM
 *LLM-powered Enhanced Retrieval*: It allows AI to understand your questions like a human, and then helps you find the information you want more accurately.
 
 Interests
-======
+
 *Life*: traveling, eating, sleeping hhh.    
 
 *Sports*: I AM A SUPER BADMINTON FAN! Currently, my self-assessed badminton skill level is between Men's Singles 3.5 and 4.0. Hit me up when you want to play badminton!     
