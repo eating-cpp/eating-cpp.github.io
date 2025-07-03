@@ -12,10 +12,15 @@ My name is Li Yujie, a junior undergraduate student majoring in the Top-Notch Ta
 You can find my CV here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email1: liyujie2305@outlook.com](mailto:liyujie2305@outlook.com)
+
 [Emain2: 22009200957@stu.xd.edu.cn](22009200957@stu.xd.edu.cn)
+
 [Github: eating-cpp]((https://github.com/eating-cpp)).
+
 [WeChat: Terminatdli2305].
+
 [QQ: 3347430292].
+
 [Phone number: 17719508298].
 
 
