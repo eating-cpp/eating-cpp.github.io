@@ -54,7 +54,9 @@ LLM
 Interests
 ======
 *Life*: traveling, eating, sleeping hhh.    
-*Sports*: I AM A SUPER BADMINTON FAN! Currently, my self-assessed badminton skill level is between Men's Singles 3.5 and 4.0. Hit me up when you want to play badminton!    
+
+*Sports*: I AM A SUPER BADMINTON FAN! Currently, my self-assessed badminton skill level is between Men's Singles 3.5 and 4.0. Hit me up when you want to play badminton!     
+
 *Entertainments*: Video games(Delta Force, GTA, etc), painting, photographing.    
 
 
