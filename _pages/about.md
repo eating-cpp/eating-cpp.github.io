@@ -9,19 +9,25 @@ redirect_from:
 
 My name is Li Yujie, a junior undergraduate student majoring in the Top-Notch Talent Class of Computer Science and Technology at the School of Computer Science and Technology, Xidian University. Want to learn more about my discipline or the Top-Notch Talent Base? Click here! My research interests include, but are not limited to, computer vision, robotics, and large language models. I often post personal updates to record my recent research or study progress. Welcome to communicate with me!
 
-You can find my CV here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).   
 
-[Email1: liyujie2305@outlook.com](mailto:liyujie2305@outlook.com)
 
-[Emain2: 22009200957@stu.xd.edu.cn](22009200957@stu.xd.edu.cn)
+[Email1: liyujie2305@outlook.com](mailto:liyujie2305@outlook.com)   
 
-[Github: eating-cpp]((https://github.com/eating-cpp)).
 
-[WeChat: Terminatdli2305].
+[Emain2: 22009200957@stu.xd.edu.cn](22009200957@stu.xd.edu.cn)   
 
-[QQ: 3347430292].
 
-[Phone number: 17719508298].
+[Github: eating-cpp]((https://github.com/eating-cpp)).   
+
+
+[WeChat: Terminatdli2305].   
+
+
+[QQ: 3347430292].   
+
+
+[Phone number: 17719508298].   
 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
