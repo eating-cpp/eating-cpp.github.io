@@ -43,8 +43,8 @@ Since high school, I have developed a deep interest in computers, especially in 
 
 CV
 -----
-1.#Image stitching# helps you synthesize a large image
-1.#Image registration# the "connect-the-dots" of images
+1.#Image stitching# helps you synthesize a large image.    
+1.#Image registration# the "connect-the-dots" of images.    
 
 Interests
 ======
