@@ -96,6 +96,9 @@
   img {
     max-width: 175px;
     border-radius: 50%;
+    object-fit: cover; /* 添加这一行 */
+    width: 100%; /* 可以设置宽度为 100%，让图片填满容器宽度 */
+    height: 100%;
 
     @include breakpoint($large) {
       padding: 5px;
