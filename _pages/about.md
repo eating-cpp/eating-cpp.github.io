@@ -17,7 +17,7 @@ My name is Yujie Li, a junior undergraduate student majoring in the Top Talent C
 [Github: eating-cpp]((https://github.com/eating-cpp)).   
 
 
------
+=====
 # Personal background
 I was born in November 2003 in Xining, Qinghai, and currently study in Xi'an. When entering the Top Talent Class of Computer Science and Technology at Xidian University, I began to make progress together with top students from all over the country (to be more precise, engage in "involution"). Now, as a junior, I have finally finished all compulsory exams! I must reward myself with a delicious meal.
 
@@ -29,7 +29,7 @@ The Top Talent Class in Computer Science and Technology at Xidian University is 
 
 Wanna give it a shot? I promise you'll have a unique experience in the Top Talent Class!
 
------
+=====
 # Academic Interests
 Since high school, I have developed a deep interest in computers, especially in the field of computer vision. Additionally, I am also fascinated by large language models, and other related domains.
 
@@ -44,7 +44,7 @@ Since high school, I have developed a deep interest in computers, especially in 
 *LLM-powered Enhanced Retrieval*: It allows AI to understand your questions like a human, and then helps you find the information you want more accurately.
 
 
------
+=====
 # Interests
 
 *Life*: traveling, eating, sleeping hhh.    
