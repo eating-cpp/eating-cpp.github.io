@@ -39,9 +39,9 @@ Since high school, I have developed a deep interest in computers, especially in 
 
 CV
 -----
-#Image stitching: It helps you synthesize a large image.    
+# Image stitching: It helps you synthesize a large image.    
 
-#Image registration*: The "connect-the-dots" of images.  
+# Image registration*: The "connect-the-dots" of images.  
 
 
 
