@@ -31,6 +31,7 @@ The Top Talent Class in Computer Science and Technology at Xidian University is 
 Wanna give it a shot? I promise you'll have a unique experience in the Top Talent Class!
 
 
+
 # Academic Interests
 
 Since high school, I have developed a deep interest in computers, especially in the field of computer vision. Additionally, I am also fascinated by large language models, and other related domains.
@@ -44,6 +45,7 @@ Since high school, I have developed a deep interest in computers, especially in 
 
 ## LLM
 *LLM-powered Enhanced Retrieval*: It allows AI to understand your questions like a human, and then helps you find the information you want more accurately.
+
 
 
 # Interests
