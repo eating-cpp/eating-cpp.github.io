@@ -45,7 +45,7 @@ Publications
 
 Since high school, I have developed a deep interest in computers, especially in the field of computer vision. Additionally, I am also fascinated by large language models, and other related domains.
 
-## CV
+## Computer Vision
 *Image stitching*: It helps you synthesize a large image.    
 
 *Image registration*: The "connect-the-dots" of images.  
