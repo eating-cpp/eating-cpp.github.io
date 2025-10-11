@@ -13,8 +13,8 @@ categories:
 
 We hereby declare that our project is developed using the publicly available model Omniglue from a 2024 CVPR paper.
 
-![og_diagram.png](images/Omniglue_pipline.png "og_diagram.png"){: .align-center}
-![OmniVerify-Nexus.png](images/OmniVerify-Nexus_logo.png "OmniVerify-Nexus.png"){: .align-center}
+![og_diagram.png]({{ '/images/Omniglue_pipline.png' | relative_url }} "og_diagram.png"){: .align-center}
+![OmniVerify-Nexus.png]({{ '/images/OmniVerify-Nexus_logo.png' | relative_url }} "OmniVerify-Nexus.png"){: .align-center}
 
 ## Technology stack
 - OmniGlue
