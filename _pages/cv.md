@@ -21,10 +21,10 @@ Work experience
   
 Skills
 ======
-* Skill Hardowrd
-* Skill strong stress tolerance
-* Skill CPP, C#, Python, Matlab, CUDA
-* Skill PPT, Excel, etc
+* Hardowrd
+* Strong stress tolerance
+* CPP, C#, Python, Matlab, CUDA
+* PPT, Excel, etc
 
 Publications
 ======
