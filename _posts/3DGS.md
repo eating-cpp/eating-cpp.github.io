@@ -1,6 +1,6 @@
 ---
 title: '手撕3DGS核心，理解函数调用，为修改做准备'
-date: 2025-10-11
+date: 2025-8-12
 permalink: /posts/2025/10/blog-post-1/
 tags:
   - 3DGS
@@ -68,7 +68,7 @@ def build_covariance_from_scaling_rotation(scaling, scaling_modifier, rotation):
 <details>
 <summary>代码</summary>
 
-```python
+```py
         # 缩放激活函数，使用指数函数
         self.scaling_activation = torch.exp
         
@@ -87,6 +87,7 @@ def build_covariance_from_scaling_rotation(scaling, scaling_modifier, rotation):
         # 旋转激活函数，使用归一化函数
         self.rotation_activation = torch.nn.functional.normalize
 ```
+
 </details>
 
 
