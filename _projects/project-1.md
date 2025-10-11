@@ -1,28 +1,24 @@
 ---
 layout: single
-title: "项目名称示例1"
+title: "慧眼见真(OmniVerify-Nexus)——基于Omniglue的钧瓷真伪鉴别系统"
 permalink: /projects/project-1/
-date: 2023-01-15
-excerpt: "这是一个项目描述示例，简要介绍项目的目的和内容。"
+date: 2025-05-16
+excerpt: "使用OmniGlue模型实现了一个针对钧瓷真伪鉴别系统。"
 header:
-  teaser: "/images/project-teaser-1.png"
+  teaser: "images/OmniVerify-Nexus_logo.png"
 categories:
   - Projects
+  - OmniGlue
 ---
 
-## 项目概述
-这是我的第一个项目示例。在这个项目中，我开发了一个用于展示个人作品集的网站，使用了Jekyll和GitHub Pages技术栈。
+We hereby declare that our project is developed using the publicly available model Omniglue from a 2024 CVPR paper.
 
-## 技术栈
-- Jekyll
-- GitHub Pages
-- HTML/CSS
-- JavaScript
+## Technology stack
+- OmniGlue
+- PyQt5
 
-## 项目特点
-- 响应式设计，适配不同设备
-- 易于维护和更新
-- 支持自定义主题
+## Introduciton
+Aiming at the counterfeiting problem in the Jun porcelain industry of Shenhou Town, Yuzhou, Henan, which causes annual losses exceeding 20 million yuan, our team has developed an intelligent anti-counterfeiting system for Jun porcelain based on the OmniGlue algorithm (2024 CVPR). Traditional manual identification relies on microscopic features such as glaze crazing patterns and "earthworm walking mud" patterns, suffering from defects like low efficiency and strong subjectivity. This system innovatively decouples the global shape of porcelain (using DINOv2 for semantic modeling) from local microscopic textures (Superpoint feature matching). Combined with a dynamic weight scoring mechanism, it achieves adaptive fusion of multi-angle captured images. The measured identification accuracy reaches 98.2%, and the processing time for a single image is <0.5 seconds. It supports museums, auction houses, and manufacturers in establishing permanent digital fingerprint libraries for genuine products, offering two modes: fast screening with adjustable confidence and high-precision identification. This provides an AI guardianship solution of "difficult to replicate, traceable" for the brand value of Jun porcelain, pushing the digital protection of cultural heritage into the millisecond era.
 
-## 项目链接
-[查看项目](https://github.com/eating-cpp/eating-cpp.github.io)
+## Project URL
+[check this out](https://github.com/eating-cpp/OmniVerify-Nexus)
