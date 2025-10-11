@@ -74,14 +74,27 @@
   }
 }
 
-.archive__item:hover {
-  .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
+/* 调整悬停效果，使方框与标题对齐 */
+.archive__item-title {
+  position: relative;
+  display: inline-block;
+}
 
-  .archive__item-title {
-    text-decoration: underline;
-  }
+.archive__item-title:hover {
+  text-decoration: underline;
+}
+
+/* 如果需要将方框效果应用到标题本身 */
+.archive__item-title:hover {
+  /* 添加一个与标题对齐的阴影效果 */
+  text-shadow: 0 0 3px rgba(#000, 0.1);
+}
+
+/* 如果你仍然希望保留缩略图的悬停效果但调整位置关系 */
+.archive__item:hover .archive__item-teaser {
+  box-shadow: 0 0 10px rgba(#000, 0.25);
+  /* 可以添加位置调整属性，如transform */
+  /* transform: translateY(-2px); */
 }
 
 
