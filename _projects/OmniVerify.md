@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "慧眼见真(OmniVerify-Nexus)——基于Omniglue的钧瓷真伪鉴别系统"
+title: "OmniVerify-Nexus"
 permalink: /projects/project-1/
 date: 2025-05-16
-excerpt: "使用OmniGlue模型实现了一个针对钧瓷真伪鉴别系统。"
+excerpt: "An authenticity verification system for Jun porcelain using OmniGlue."
 header:
   teaser: "images/OmniVerify-Nexus_logo.png"
 categories:
