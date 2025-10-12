@@ -1,5 +1,5 @@
 ---
-title: 'PGSR对比3DGS，我的一些学习与理解'
+title: 'test PGSR对比3DGS，我的一些学习与理解'
 date: 2025-08-16
 permalink: /posts/2025/08/blog-post-3/
 tags:
