@@ -10,6 +10,7 @@ tags:
 ---
 
 探索MoGe2和PGSR的浅层结合
+[项目链接](git config --global http.postBuffer 524288000)
 
 # 使用MoGe2来监督PGSR的normal
 
