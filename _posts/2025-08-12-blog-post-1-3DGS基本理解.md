@@ -1,7 +1,7 @@
 ---
 title: '手撕3DGS核心，理解函数调用，为修改做准备'
-date: 2025-8-12
-permalink: /posts/2025/10/blog-post-1/
+date: 2025-08-12
+permalink: /posts/2025/08/blog-post-1/
 tags:
   - 3DGS
   - CUDA
