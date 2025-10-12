@@ -20,5 +20,5 @@ MoGe2是一个单目深度估计网络，目前属于这个领域的SOTA方法�
 
 
 ## 项目链接
-[项目分析](https://eating-cpp.github.io/posts/2025/08/blog-post-3/)
+[项目分析](https://eating-cpp.github.io/posts/2025/08/blog-post-4/)
 [项目实现](https://github.com/eating-cpp/Use-MoGe2-to-supervise-PGSR/tree/main)
