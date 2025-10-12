@@ -1,7 +1,7 @@
 ---
 title: '使用MoGe2来监督PGSR的normal'
 date: 2025-08-21
-permalink: /posts/2025/08/blog-post-3/
+permalink: /posts/2025/08/blog-post-4/
 tags:
   - PGSR
   - MoGe2
