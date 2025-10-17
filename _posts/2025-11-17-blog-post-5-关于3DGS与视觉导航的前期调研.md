@@ -1,7 +1,7 @@
 ---
 title: '关于3DGS与3D视觉导航的前期调研'
-date: 2025-10-17
-permalink: /posts/2025/10/blog-post-5/
+date: 2025-11-17
+permalink: /posts/2025/11/blog-post-5/
 tags:
   - 3DGS
   - SLAM
